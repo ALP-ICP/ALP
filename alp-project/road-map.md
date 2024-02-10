@@ -28,7 +28,8 @@ description: The ALP roadmap is completed in one chapter
 * [ ] Do the airdrop
 * [ ] Create the farm
 * [ ] Vote and choose the ALP
-* [ ] Open source the project
+* [x] Open source the project
+* [ ] The project was listed on **Coingecko**
 * [ ] List the token on CoinMarketCap
 * [ ] Start the second column and continue the story
 

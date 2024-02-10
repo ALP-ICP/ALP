@@ -3,6 +3,7 @@
 The ALP project consists of three main social networks that only the community can interact with the project in these social networks.
 
 * **Gmail** : _a.liberal.president@gmail.com_
+* **github :** [https://github.com/ALP-ICP/ALP](https://github.com/ALP-ICP/ALP)
 * **twitter** : [https://twitter.com/ALP\_ICP](https://twitter.com/ALP\_ICP)
 * **DSCVR** : [https://dscvr.one/p/alp](https://dscvr.one/p/alp)
 * **OpenChat** : [https://oc.app/community/mefhp-xiaaa-aaaar-axd5a-cai/?ref=qyuam-wiaaa-aaaar-ajjba-cai](https://oc.app/community/mefhp-xiaaa-aaaar-axd5a-cai/?ref=qyuam-wiaaa-aaaar-ajjba-cai)
