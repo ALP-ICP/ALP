@@ -7,6 +7,7 @@ The ALP project consists of three main social networks that only the community c
 * **twitter** : [https://twitter.com/ALP\_ICP](https://twitter.com/ALP\_ICP)
 * **DSCVR** : [https://dscvr.one/p/alp](https://dscvr.one/p/alp)
 * **OpenChat** : [https://oc.app/community/mefhp-xiaaa-aaaar-axd5a-cai/?ref=qyuam-wiaaa-aaaar-ajjba-cai](https://oc.app/community/mefhp-xiaaa-aaaar-axd5a-cai/?ref=qyuam-wiaaa-aaaar-ajjba-cai)
+* **COE** project white paper : [https://coe-co.gitbook.io/coe-project-white-paper/](https://coe-co.gitbook.io/coe-project-white-paper/)
 
 ### **DSCVR**
 
