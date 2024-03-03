@@ -5,7 +5,11 @@
 * [A liberal president (ALP)](README.md)
 * [The first humans woke up](science-fiction-story/the-first-humans-woke-up.md)
 * [The return of the ALP](science-fiction-story/the-return-of-the-alp.md)
-* [ALP animations](science-fiction-story/alp-animations.md)
+
+## ALP animations
+
+* [ALP animations](alp-animations/alp-animations/README.md)
+  * [first price](alp-animations/alp-animations/first-price.md)
 
 ## ALP project
 
