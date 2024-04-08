@@ -10,3 +10,7 @@ ALP collection of artwork created by artificial intelligence inspired by the cha
 ALP is a big joke with all the projects in the ICP ecosystem! An idea whose only serious purpose is advertising for COE and all important projects of the ICP ecosystem can become the top token of the ecosystem. The result of the birth of ALP is a completely decentralized token, the only way to pre-purchase it is by investing in NFT characters. COE-backed NFTs.
 
 **Let's dive into the mysterious story of the ALP and find out.**
+
+{% content-ref url="README (1).md" %}
+[README (1).md](<README (1).md>)
+{% endcontent-ref %}
