@@ -1,15 +1,20 @@
 # Table of contents
 
+* [ALP](README.md)
+
 ## science fiction story
 
-* [A liberal president (ALP)](README.md)
+* [A liberal president (ALP)](<README (1).md>)
 * [The first humans woke up](science-fiction-story/the-first-humans-woke-up.md)
 * [The return of the ALP](science-fiction-story/the-return-of-the-alp.md)
 
 ## ALP animations
 
 * [ALP animations](alp-animations/alp-animations/README.md)
-  * [first price](alp-animations/alp-animations/first-price.md)
+  * [Part I](alp-animations/alp-animations/part-i.md)
+  * [second part](alp-animations/alp-animations/second-part.md)
+  * [third part](alp-animations/alp-animations/third-part.md)
+  * [The fourth part](alp-animations/alp-animations/the-fourth-part.md)
 
 ## ALP project
 
